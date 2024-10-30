@@ -5,8 +5,10 @@ Este é um aplicativo simples de lista de tarefas desenvolvido em Python usando 
 ## Funcionalidades
 - Adicionar novas tarefas com prioridade e data de vencimento.
 - Visualizar todas as tarefas em uma lista.
+- Atualizar tarefa
 - Marcar tarefas como concluídas.
 - Excluir tarefas da lista.
+- Listar atividades concluídas
 
 ## Requisitos
 - Python 3.x
